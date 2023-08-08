@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to Moon Lander v3, an exciting 3D simulation project that allows you to experience a thrilling moon landing adventure! 🌕💫
+Welcome to Moon Lander v3, an exciting 3D physics simulation project that aims to give you a thrilling moon landing experience! 🌕💫
 
 This repo is a fork of this repo: https://github.com/SagarPateI/PLC-FINAL 
 
