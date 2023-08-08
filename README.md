@@ -3,10 +3,11 @@
 ## Overview
 
 Welcome to Moon Lander v3, an exciting 3D simulation project that allows you to experience a thrilling moon landing adventure! 🌕💫
+This repo is a fork of this repo: https://github.com/SagarPateI/PLC-FINAL 
 
 ## 🛠️ Getting Started + Installation
 
-### 1. [Click here to run the code in CodeSandbox.io](https://codesandbox.io/p/github/SagarPateI/PLC-FINAL/main?file=/src/App.js:1,1&workspaceId=3c600460-ab88-4e09-8663-32c5d908a14b)
+### 1. [Click here to run the code in CodeSandbox.io](https://codesandbox.io/p/github/SagarPateI/MoonlanderV3/main)
 
 ### or
 
